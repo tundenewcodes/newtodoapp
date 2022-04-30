@@ -1,3 +1,9 @@
+my first typescript app that covers the core features and fundamentals of using typescript with react.
+i exercised my understanding of typescript by building this basic todo app using context for state mangement. 
+a very simple todo app that recieves tasks from users and add to another component
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
